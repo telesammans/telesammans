@@ -16,5 +16,4 @@ För att underlätta anslutning till vårat LAN så förekommer även tradionell
 
 ## Socialt kontrakt
 
-Alla får ansluta sig till vårat LAN under förutsättning att man beter sig respektfullt och som goda grannar.
-
+Vi är goda grannar i vårat LAN. Vi sätter inte lösenord på våra WiFI-nätverk. Vi delar med oss.
